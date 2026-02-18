@@ -20,3 +20,8 @@ movimiento
 
 c. El entregable solo debe incluir código JS que probaremos
 posteriormente desde el inspector.
+
+## Resultado
+
+<img width="1065" height="903" alt="image" src="https://github.com/user-attachments/assets/5f79d040-07dc-459b-b65f-c8744a6a3f8a" />
+
